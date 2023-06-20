@@ -3,7 +3,7 @@ terraform {
     organization = "globomantics-mr"
 
     workspaces {
-      name = "awsaccount"
+      name = "awss3-tfm"
     }
   }
 }
